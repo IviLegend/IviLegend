@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IviLegend
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning game development xd
-- 💞️ I’m looking to collaborate on for the moment, nothing
-- 📫 How to reach me idk
+- 🌱 I’m currently making a topdown shooter videogame!
+- 📫 How to reach me? You can find me on Twitter as @IviLegend too :D
 
 <!---
 IviLegend/IviLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IviLegend
 - 👀 I’m interested in game development
-- 🌱 I’m currently making a topdown shooter videogame!
+- 🌱 Currently working on a dark pixelart RPG!
 
 <!---
 IviLegend/IviLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
